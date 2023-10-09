@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/char_freq_app/static/css/main.ac8a551d.css",
+    "main.js": "/char_freq_app/static/js/main.5c0f3206.js",
+    "static/js/787.d0699282.chunk.js": "/char_freq_app/static/js/787.d0699282.chunk.js",
+    "index.html": "/char_freq_app/index.html",
+    "main.ac8a551d.css.map": "/char_freq_app/static/css/main.ac8a551d.css.map",
+    "main.5c0f3206.js.map": "/char_freq_app/static/js/main.5c0f3206.js.map",
+    "787.d0699282.chunk.js.map": "/char_freq_app/static/js/787.d0699282.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8a551d.css",
+    "static/js/main.5c0f3206.js"
+  ]
+}
